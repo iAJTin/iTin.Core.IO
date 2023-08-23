@@ -12,6 +12,8 @@ Changes in this version (v1.0.3)
   -----
 
   - Create project and first commit
+   
+  - Multiple Repository is used.
 
 
 Documentation
