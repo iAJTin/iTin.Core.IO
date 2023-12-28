@@ -17,8 +17,8 @@
   </PropertyGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\..\..\iTin.Registry\iTin.Registry.Windows\src\iTin.Registry.Windows.csproj" />
-	  <ProjectReference Include="..\..\iTin.Core\src\iTin.Core.csproj" />
+	  <ProjectReference Include="..\..\..\..\iTin.Registry\iTin.Registry.Windows\src\iTin.Registry.Windows.csproj" />
+	  <ProjectReference Include="..\..\..\iTin.Core\src\iTin.Core.csproj" />
 	</ItemGroup>
 
 </Project>
